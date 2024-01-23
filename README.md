@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there it's Fahad Shaik👋
+About me:
+I am a front-end developer with a strong focus on user interface and user experience design. While my expertise lies primarily in front-end development, I am continuously learning and expanding my knowledge in back-end development as well.
 <!--
 **FahadShaik/FahadShaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
